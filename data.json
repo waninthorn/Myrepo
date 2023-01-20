@@ -1,42 +1,23 @@
 [
     {
-        "province" : "กระบี่",
-        "dead_num" : "13972",
+        "title" : "จังหวัด กระบี่",
+        "details" : "จำนวนผู้เสียชีวิต 123 คน",
+        "image_url" :"https://pbs.twimg.com/media/FFRhdKUaMAAMu8j?format=jpg&name=large",
+        "detail" : "จังหวัด กระบี่ มีจำนวนผู้เสียชีวิต 123 คน"
     },
     {
-        "province" : "กรุงเทพมหานคร",
-        "dead_num" : "499343",
+        "title" : "จังหวัด ชลบุรี",
+        "details" : "จำนวนผู้เสียชีวิต 123 คน",
+        "image_url" :"https://pbs.twimg.com/media/FFRhdKUaMAAMu8j?format=jpg&name=large",
+        "detail" : "จังหวัด กระบี่ มีจำนวนผู้เสียชีวิต 123 คน"
     },
     {
-        "province" : "กาญจนบุรี",
-        "dead_num" : "26806",
-    },
-    {
-        "province" : "กาฬสินธุ์",
-        "dead_num" : "12194",
-    },
-    {
-        "province" : "กำแพงเพชร",
-        "dead_num" : "123",
-    },
-    {
-        "province" : "ขอนแก่น",
-        "dead_num" : "555",
-    },
-    {
-        "province" : "จันทรบุรี",
-        "dead_num" : "26806",
-    },
-    {
-        "province" : "ฉะเชิงเทรา",
-        "dead_num" : "12194",
-    },
-    {
-        "province" : "ชลบุรี",
-        "dead_num" : "212",
-    },
-    {
-        "province" : "ชัยนาถ",
-        "dead_num" : "124",
-    },
+        "title" : "จังหวัด กรุงเทพ",
+        "details" : "จำนวนผู้เสียชีวิต 123 คน",
+        "image_url" :"https://pbs.twimg.com/media/FFRhdKUaMAAMu8j?format=jpg&name=large",
+        "detail" : "จังหวัด กระบี่ มีจำนวนผู้เสียชีวิต 123 คน"
+    }
+    
+ 
+   
 ]
